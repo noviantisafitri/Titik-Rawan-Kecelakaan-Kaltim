@@ -1,0 +1,20 @@
+﻿FID,Shape,name,ORIG_FID,POINT_X,POINT_Y
+0,Point,"['Jalan Marsma Iswahyudi', 'Jalan Jenderal Sudirman']",0,485706.9962,9859137.943
+1,Point,"['Jalan Mulawarman', 'Mulawarman']",1,496821.5514,9865589.514
+2,Point,Bundaran Rapak,2,481653.633,9862726.665
+3,Point,Jalan ARS Mohammad,3,481461.135,9858961.027
+4,Point,Jalan Brigjen Ery Suparjan,4,481572.3418,9858928.969
+5,Point,Jalan Jenderal Ahmad Yani,5,481625.0758,9862590.783
+6,Point,Jalan Jenderal Sudirman,6,484487.0006,9859298.661
+7,Point,Jalan Klamono,7,481638.7298,9862835.231
+8,Point,Jalan Marsma Iswahyudi,8,489079.3812,9860860.541
+9,Point,Jalan Minyak Baru,9,481542.8231,9862561.37
+10,Point,Jalan Mulawarman,10,496783.8442,9865547.122
+11,Point,Jalan Pemuda,11,484612.4381,9859251.503
+12,Point,Jalan Poros Samarinda - Balikpapan,12,484814.2353,9866146.748
+13,Point,Jalan Projakal,13,484692.444,9866111.082
+14,Point,Jalan Soekarno-Hatta,14,484188.5665,9865821.399
+15,Point,Jalan Syarifuddin Yoes,15,488743.3389,9861577.671
+16,Point,Jalan Tol Balikpapan–Samarinda,16,495442.1673,9864118.585
+17,Point,Mulawarman,17,496809.2145,9865575.001
+18,Point,Syarifuddin Yoes,18,488876.4835,9861403.419
